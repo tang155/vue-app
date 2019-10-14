@@ -12,7 +12,7 @@
                     <view class="title">radio</view>
                     <radio-group name="radio">
                         <label>
-                            <radio value="radio1" /><text>选项一</text>
+                            <radio value="radio1" /><text>选项一,xbuilde内置git-上传测试</text>
                         </label>
                         <label>
                             <radio value="radio2" /><text>选项二</text>
