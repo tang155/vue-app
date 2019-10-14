@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"content{padding: ",[0,10],";width: 96%;-webkit-flex-wrap: wrap;-ms-flex-wrap: wrap;flex-wrap: wrap;line-height: 2em;}\n.",[1],"title{height: 2em;font-weight: 700;font-size: ",[0,40],";height: auto;}\n.",[1],"art-content{line-height: 2em;}\n",],undefined,{path:"./pages/info/info.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/info/info.wxml') } }));
